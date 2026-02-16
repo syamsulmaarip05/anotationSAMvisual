@@ -9,7 +9,7 @@ from src.yolo_parser import load_yolo_seg_label
 from src.visualizer import draw_polygons, bgr_to_rgb
 
 st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
-st.title("YOLO-Seg Viewer")
+st.title("VISUALISASI ANOTASI POLYGON - YOLO SEGMENTATION BY SYAMSUL MAARIP")
 
 DEFAULT_DATASET = r"DATA_ANOTASI_721_EPSILON5"
 
