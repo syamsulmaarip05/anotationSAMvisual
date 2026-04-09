@@ -11,7 +11,7 @@ from src.visualizer import draw_polygons, bgr_to_rgb
 st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
 st.title("VISUALISASI ANOTASI POLYGON - YOLO SEGMENTATION BY SYAMSUL MAARIP")
 
-DEFAULT_DATASET = r"HASIL_ANOTASI_E8_AUG"
+DEFAULT_DATASET = r"HASIL_ANOTASI_E7"
 
 # =========================
 # CUSTOM CSS
